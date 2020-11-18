@@ -1,0 +1,17 @@
+{
+  "name": "pattern-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pattern-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "lodash": "^4.17.20"
+  }
+}
